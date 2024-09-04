@@ -6,9 +6,9 @@ This project involves creating a smart mosquito net with motorized deployment an
 
 ## Features
 - Motorized deployment and retraction
-- Smartphone app control
+- Remote Controlled
 - Integrated sleep tracking
-- Automated operation based on sleep patterns
+
 
 ## Hardware
 - **Motorized Mechanism**
