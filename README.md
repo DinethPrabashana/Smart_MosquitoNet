@@ -13,7 +13,6 @@ This project involves creating a smart mosquito net with motorized deployment an
 ## Hardware
 - **Motorized Mechanism**
 - **Microcontroller** (ATmega328P)
-- **Bluetooth/Wi-Fi Module** for app connectivity
 - **Sensors** for sleep tracking
 
 
